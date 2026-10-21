@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@source "./node_modules/@material-tailwind/react/**/*.{js,ts,jsx,tsx}";
+
+@theme {
+  --color-cyber-cyan: #00F0FF;
+  --color-cyber-pink: #FF007F;
+  --color-cyber-yellow: #FFE600;
+  --color-cyber-violet: #7000FF;
+  --color-cyber-dark: #0D0E15;
+}
